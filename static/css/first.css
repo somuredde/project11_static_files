@@ -1,0 +1,14 @@
+h1{
+    background-color: black;
+    color:white;
+    width:750px;
+    border-radius: 10px;
+}
+body{
+    background-color:gold;
+}
+img{
+    height:500px;
+    width:1000px;
+    border-radius: 10px;
+}
